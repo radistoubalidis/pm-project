@@ -1,0 +1,10 @@
+black
+flake8
+pylint
+mypy
+python-dotenv
+pandas
+matplotlib
+numpy
+pm4py
+graphviz
